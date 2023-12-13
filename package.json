@@ -1,6 +1,6 @@
 {
   "name": "alan_proyecto",
-  "hostname": "http://driosn.github.io/Alan_proyecto",
+  "hostname": "https://driosn.github.io/Alan_proyecto",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
